@@ -1,0 +1,20 @@
+{
+  "name": "upbringo",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "V.Venkateshwar Reddy B118063",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
